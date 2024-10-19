@@ -1,0 +1,17 @@
+[{
+  "name": "Fakultet za informatiku i racunarstvo",
+  "acronym": "FIR",
+  "website": "http://fir.singidunum.ac.rs"
+}, {
+  "name": "Poslovni fakultet u Beogradu",
+  "acronym": "PFB",
+  "website": "http://pfb.singidunum.ac.rs"
+}, {
+  "name": "Fakultet za turisticki i hotelijerski menadzment",
+  "acronym": "FTHM",
+  "website": "http://fthm.singidunum.ac.rs"
+}, {
+  "name": "Tehnicki fakultet",
+  "acronym": "TF",
+  "website": "http://tf.singidunum.ac.rs"
+}]
